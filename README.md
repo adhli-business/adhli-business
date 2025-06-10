@@ -7,8 +7,8 @@
   <a href="https://linkedin.com/in/putra-adhli-falah">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/adhlifalah">
-    <img src="https://img.shields.io/github/followers/adhlifalah?style=for-the-badge" />
+  <a href="https://github.com/adhli-business">
+    <img src="https://img.shields.io/github/followers/adhli-business?style=for-the-badge" />
   </a>
 </p>
 
@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhlifalah&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhlifalah&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhli-business&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhli-business&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhlifalah&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhli-business&theme=radical" />
 </p>
 
 ---
