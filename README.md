@@ -50,42 +50,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adhli-business&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=15" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhli-business&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top languages"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=adhli-business&theme=radical&hide_border=true&border_radius=15" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adhli-business&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adhli-business&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=22d3ee" width="95%" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<!-- Butuh workflow .github/workflows/snake.yml dijalankan sekali agar animasi ular muncul -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhli-business/adhli-business/output/github-snake-dark.svg">
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/adhli-business/adhli-business/output/github-snake.svg" width="100%">
 </picture>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-<!-- Ganti REPO-NAME-1 dan REPO-NAME-2 dengan nama repo pilihanmu, tambah kartu kalau perlu -->
-<div align="center">
-
-<a href="https://github.com/adhli-business/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adhli-business&repo=REPO-NAME-1&theme=radical&hide_border=true&border_radius=15" alt="project 1"/></a>
-<a href="https://github.com/adhli-business/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adhli-business&repo=REPO-NAME-2&theme=radical&hide_border=true&border_radius=15" alt="project 2"/></a>
-
-</div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
