@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="presentation">
+<defs>
+<filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="45"/></filter>
+<filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="5" result="b"><animate attributeName="stdDeviation" values="3;8;3" dur="4s" repeatCount="indefinite"/></feGaussianBlur><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowS" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0b1020"/><stop offset="0.45" stop-color="#241757"/><stop offset="0.75" stop-color="#0c3a52"/><stop offset="1" stop-color="#0b1020"/>
+  <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="24s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="nameG" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="repeat">
+  <stop offset="0" stop-color="#a78bfa"/><stop offset="0.33" stop-color="#22d3ee"/><stop offset="0.66" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/>
+  <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="8s" repeatCount="indefinite"/>
+</linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.08"/></pattern>
+<linearGradient id="ln" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/><stop offset="0.25" stop-color="#8b5cf6"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="0.75" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="13" width="1000" height="2" fill="url(#ln)"/>
+<circle r="5" cy="14" fill="#ffffff" filter="url(#glowS)"><animate attributeName="cx" values="0;1000;0" keyTimes="0;0.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="7s" repeatCount="indefinite"/></circle>
+<rect x="494.0" y="8" width="12" height="12" fill="none" stroke="#22d3ee" stroke-width="2" transform="rotate(45 500.0 14)"><animateTransform attributeName="transform" type="rotate" from="45 500.0 14" to="405 500.0 14" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
